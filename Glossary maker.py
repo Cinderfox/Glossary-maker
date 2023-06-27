@@ -3,7 +3,6 @@ List=["The purpose of a paragraph is to express a speakers thoughts on a particu
 f.writelines(List)
 f.close()
 
-
 f1=open("paragraph.txt","rt")      
 lines=f1.read()
 f1.close()
